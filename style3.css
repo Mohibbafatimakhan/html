@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    color: whitesmoke;
+}
+
+header {
+    background-color: #000000;
+    color: #fff;
+    padding: 1px;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+
+
+.about{
+    max-width: 800px;
+    margin: 0 auto;
+}
+  
+nav {
+    background-color: rgb(51, 71, 250);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+}
+

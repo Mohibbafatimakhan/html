@@ -1,0 +1,86 @@
+#Sony{
+    background-color: #000000;
+    color: whitesmoke;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: none;  
+    font-size: xx-large;  
+}
+
+body{
+    background-color: black;
+    color:#ffffff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+
+
+}
+pre{
+    font-size: 25px;
+}
+
+#console{
+    color: #ffffff;
+    text-align: left;
+    background-color: rgb(51, 71, 250);
+}
+
+nav {
+    background-color: rgb(51, 71, 250);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+}
+
+
+.section {
+    height: 750px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    text-align: center;
+    transition: background-color 0.3s ease-in-out;
+  }
+
+  .section img {
+    width: 50%; 
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .section h2 {
+    max-width: 40%; 
+    margin-top: 20px;
+    font-size: 2.5em;
+    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding-right: 100px;
+  }
+
+  
+  .headings{
+    text-align: center;
+    color: whitesmoke;
+    font-size: xx-large;
+    
+    text-decoration: underline;
+
+
+  }
+
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
